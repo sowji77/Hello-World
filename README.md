@@ -1,3 +1,3 @@
 # Hello-World
 My first repository on GitHub
-All love no hate is my policy 
+To gain knowledge of how to create it.
